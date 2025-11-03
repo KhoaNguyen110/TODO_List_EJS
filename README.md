@@ -26,16 +26,17 @@
 ## 🗂️ Cấu trúc thư mục
 
 project_root/
-├── app.js # Cấu hình Express app (view engine, routes, middleware)
-├── server.js # Chạy server Node.js
-│
-├── views/ # Thư mục chứa giao diện EJS
-│ ├── home.ejs # Trang chủ
-│ └── todo.ejs # Trang TODO List
-│
-├── members.json # Danh sách thành viên nhóm
-├── tasks.json # Danh sách công việc (lưu tạm)
-│
-├── package.json # Thông tin dự án & dependencies
-├── package-lock.json
-└── README.md # Tài liệu dự án
+
+- ├── app.js # Cấu hình Express app (view engine, routes, middleware)
+- ├── server.js # Chạy server Node.js
+- │
+- ├── views/ # Thư mục chứa giao diện EJS
+- │ ├── home.ejs # Trang chủ
+- │ └── todo.ejs # Trang TODO List
+- │
+- ├── members.json # Danh sách thành viên nhóm
+- ├── tasks.json # Danh sách công việc (lưu tạm)
+- │
+- ├── package.json # Thông tin dự án & dependencies
+- ├── package-lock.json
+- └── README.md # Tài liệu dự án
