@@ -14,5 +14,13 @@
   "dependencies": {
     "ejs": "^3.1.10",
     "express": "^5.1.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KhoaNguyen110/TODO_List_EJS.git"
+  },
+  "bugs": {
+    "url": "https://github.com/KhoaNguyen110/TODO_List_EJS/issues"
+  },
+  "homepage": "https://github.com/KhoaNguyen110/TODO_List_EJS#readme"
 }
