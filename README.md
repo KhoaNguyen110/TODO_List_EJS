@@ -25,7 +25,7 @@
 
 ## 🗂️ Cấu trúc thư mục
 
-│
+project_root/
 ├── app.js # Cấu hình Express app (view engine, routes, middleware)
 ├── server.js # Chạy server Node.js
 │
